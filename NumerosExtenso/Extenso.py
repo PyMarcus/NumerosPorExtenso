@@ -15,7 +15,7 @@ def intervalo(numero: str):
             valor = "quarenta"
             return valor
         case "5":
-            valor = "cincoenta"
+            valor = "cinquenta"
             return valor
         case "6":
             valor = "sessenta"
